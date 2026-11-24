@@ -1,0 +1,5 @@
+# Holds the LINE login session. Treat it like a password: never share or commit it.
+.browser-profile/
+# Billing data and downloaded invoices
+output/
+node_modules/
